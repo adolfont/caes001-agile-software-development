@@ -1,5 +1,29 @@
 # Syllabus
 
+- Introduction to Agile Methods
+- Agile software: values and principles
+- Main agile practices
+- Main agile processes (methods)
+
+## Bibliography
+
+BECK, K. Extreme programming explained. Second edition. Addison-Wesley, 2004
+
+COCKBURN, A. Agile Software Development: The Cooperative Game (2nd Edition). Addison-Wesley, 2006
+
+FOWLER, M. Refactoring: improving the design of existing code. Addison-Wesley, 1999.
+
+POPPENDIECK, M. e T. Lean Software Development: An Agile Toolkit. Addison-Wesley, 2003.
+
+COHN, M. Succeeding with Agile: Software Development Using Scrum. Addison-Wesley, 2009.
+
+DYBA, T., and DINGSOYR, T. “Empirical studies of agile software development: A systematic review.” Information and software technology 50.9-10 (2008): 833-859.
+
+BISSI, W., SERRA-SECA-NETO, A.G., EMER, M.C.F.P. “The effects of test driven development on internal quality, external quality and productivity: A systematic review.” Information and Software Technology 74 (2016): 45-54.
+
+
+
+
 # Ementa
 
 CAES001 - Metodologias Ágeis para o Desenvolvimento de Software
