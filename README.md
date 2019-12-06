@@ -1,5 +1,5 @@
 # Agile Software Development at UTFPR
 
-[Syl]abus](syllabus.md)
+[Syllabus](syllabus.md)
 
 [Links](links.md)
