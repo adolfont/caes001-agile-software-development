@@ -10,7 +10,9 @@ http://blog.martinig.ch/software-development/sacred-agile/
 
 # Related Methods
 
-GROWS Method https://growsmethod.com/
+- GROWS Method https://growsmethod.com/
+
+- AgileLite https://github.com/davebs/AgileLite
 
 # Surveys
 
