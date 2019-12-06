@@ -8,6 +8,14 @@ https://no-kill-switch.ghost.io/jesus-driven-development/
 
 http://blog.martinig.ch/software-development/sacred-agile/
 
+# Related Methods
+
+GROWS Method https://growsmethod.com/
+
+# Surveys
+
+State of Agile https://www.stateofagile.com/
+
 # Glossaries
 
 https://www.solutionsiq.com/agile-glossary/
