@@ -8,6 +8,13 @@ https://no-kill-switch.ghost.io/jesus-driven-development/
 
 http://blog.martinig.ch/software-development/sacred-agile/
 
+- ShapeUp, Ryan Singer https://basecamp.com/shapeup
+  - Episode 389: Ryan Singer on Basecamp’s Software Development Process https://www.se-radio.net/2019/11/episode-389-ryan-singer-on-basecamps-software-development-process/
+  
+- The Rise and Fall of Software Recipes https://www.amazon.com/dp/9490783420/
+  - Q&A on The Rise and Fall of Software Recipes https://www.infoq.com/articles/book-review-rise-software-recipes/
+
+
 # Related Methods
 
 - GROWS Method https://growsmethod.com/
