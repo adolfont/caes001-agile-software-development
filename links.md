@@ -14,7 +14,11 @@
 - The Rise and Fall of Software Recipes https://www.amazon.com/dp/9490783420/
   - Q&A on The Rise and Fall of Software Recipes https://www.infoq.com/articles/book-review-rise-software-recipes/
 
-- https://elixirforum.com/t/agile-as-a-full-featured-religious-dogma/27394/14
+- Discussin on Elixir Forum https://elixirforum.com/t/agile-as-a-full-featured-religious-dogma/27394/14
+
+- Why “Agile” and especially Scrum are terrible https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+
+- Flaws In Scrum And Agile https://www.pandastrike.com/posts/20150304-agile/
 
 # Related Methods
 
