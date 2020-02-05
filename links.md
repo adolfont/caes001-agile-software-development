@@ -33,3 +33,11 @@ State of Agile https://www.stateofagile.com/
 # Glossaries
 
 https://www.solutionsiq.com/agile-glossary/
+
+
+# Podcasts
+
+## In Portuguese
+
+  - Conversa Ágil https://www.spreaker.com/show/conversa-agil
+  - ContÁgil https://contagil.simplecast.com/
