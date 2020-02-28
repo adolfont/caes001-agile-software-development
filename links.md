@@ -1,3 +1,8 @@
+# Fixing
+
+  - Fixing Your Scrum: Practical Solutions to Common Scrum Problems by Ryan Ripley and Todd Miller
+https://pragprog.com/book/rrscrum/fixing-your-scrum
+
 # Criticisms
 
 - Agile is Dead (Long Live Agility) https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html
