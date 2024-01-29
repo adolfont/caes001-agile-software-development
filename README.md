@@ -2,4 +2,3 @@
 
 [Syllabus](syllabus.md)
 
-[Links](links.md)
