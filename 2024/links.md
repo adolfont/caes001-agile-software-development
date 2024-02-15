@@ -8,3 +8,7 @@
 ## Videos
 
 - [2021: Rafaela Mantovani Fontana fala sobre Maturidade Ágil (PPGCA UTFPR)](https://www.youtube.com/watch?v=urG5C6zAfZs)
+
+## Slides
+- All slides from http://softengbook.org are available at the site.
+
