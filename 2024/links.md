@@ -22,4 +22,8 @@
 
 - [2021: Rafaela Mantovani Fontana fala sobre Maturidade Ágil (PPGCA UTFPR)](https://www.youtube.com/watch?v=urG5C6zAfZs)
 
+## Related to knowledge exchange
+
+- [Start a f___ing blog](https://startafuckingblog.com/)
+
 
