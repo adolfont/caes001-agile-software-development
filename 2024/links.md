@@ -9,7 +9,7 @@
 
 - Diálogo Ágil 2 https://podcasters.spotify.com/pod/show/adolfont/episodes/Podcast-Dilogo-gil---Episdio-2---Robson-Valentim-e27tvja
 - Diálogo Ágil 3 https://podcasters.spotify.com/pod/show/adolfont/episodes/Podcast-Dilogo-gil---Episdio-3---Gustavo-Tenius-e26t820
-- Several at https://fronteirases.github.io/
+- Several episodes at https://fronteirases.github.io/ (particularly 1, 2, 3, 4 and 5) 
 
 ## Slides
 - All slides from http://softengbook.org are available at the site.
