@@ -32,6 +32,7 @@
 ## Videos
 
 - [2021: Rafaela Mantovani Fontana fala sobre Maturidade Ágil (PPGCA UTFPR)](https://www.youtube.com/watch?v=urG5C6zAfZs)
+- [Reimagining Agile (Session One)](https://www.agilealliance.org/resources/videos/reimagining-agile-session-one/)
 
 ## Related to knowledge exchange
 
