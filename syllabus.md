@@ -1,4 +1,4 @@
-# Syllabus
+# CAES001 Syllabus
 
 - Introduction to Agile Methods
 - Agile software: values and principles
