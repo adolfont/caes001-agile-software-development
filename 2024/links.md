@@ -3,6 +3,7 @@
 ## Boook
 
 - Link for regular and special UTFPR students: <https://webapp.utfpr.edu.br/bibservices/minhaBiblioteca?ISBN=9788582602089>
+- Amazon link: https://www.amazon.com.br/M%C3%A9todos-%C3%81geis-para-Desenvolvimento-Software/dp/8582602073/
 
 Basta clicar e se logar.
 
